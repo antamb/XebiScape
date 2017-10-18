@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 9635c0c9c4a3ee24bb838ff64fa20ce7
-timeCreated: 1507589001
+guid: 2b7cb8e8caf5256498f4351a7d880fe8
+timeCreated: 1507728832
 licenseType: Free
 ModelImporter:
   serializedVersion: 21
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: techtrends
+    4300000: e
   materials:
     importMaterials: 1
     materialName: 0
