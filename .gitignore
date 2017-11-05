@@ -5,7 +5,11 @@
 /[Bb]uilds/
 /Assets/AssetStoreTools*
 /Assets/SteamVR
+/Assets/VRTK
 .DS_Store
+*.iml
+.idea
+*.meta
 
 # Visual Studio 2015 cache directory
 /.vs/
