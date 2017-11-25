@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 254ff178a20fb4d45b3685cd7b4d9e93
+timeCreated: 1511476021
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Mesh159
+    100002: Mesh159_MeshPart0
+    100004: Mesh159_MeshPart1
+    100006: switch 004
+    100008: switch 005
+    100010: switch 006
+    100012: switch 007
+    100014: switch 008
+    100016: switch 01
+    100018: switch 01 big
+    100020: switch 02
+    100022: switch 02 big
+    100024: switch 03
+    100026: switch 03 big
+    100028: switch 04 big
+    100030: //RootNode
+    400000: Mesh159
+    400002: Mesh159_MeshPart0
+    400004: Mesh159_MeshPart1
+    400006: switch 004
+    400008: switch 005
+    400010: switch 006
+    400012: switch 007
+    400014: switch 008
+    400016: switch 01
+    400018: switch 01 big
+    400020: switch 02
+    400022: switch 02 big
+    400024: switch 03
+    400026: switch 03 big
+    400028: switch 04 big
+    400030: //RootNode
+    2300000: Mesh159_MeshPart0
+    2300002: Mesh159_MeshPart1
+    2300004: switch 004
+    2300006: switch 005
+    2300008: switch 006
+    2300010: switch 007
+    2300012: switch 008
+    2300014: switch 01
+    2300016: switch 01 big
+    2300018: switch 02
+    2300020: switch 02 big
+    2300022: switch 03
+    2300024: switch 03 big
+    2300026: switch 04 big
+    3300000: Mesh159_MeshPart0
+    3300002: Mesh159_MeshPart1
+    3300004: switch 004
+    3300006: switch 005
+    3300008: switch 006
+    3300010: switch 007
+    3300012: switch 008
+    3300014: switch 01
+    3300016: switch 01 big
+    3300018: switch 02
+    3300020: switch 02 big
+    3300022: switch 03
+    3300024: switch 03 big
+    3300026: switch 04 big
+    4300000: switch 005
+    4300002: switch 007
+    4300004: switch 008
+    4300006: switch 006
+    4300008: switch 004
+    4300010: switch 04 big
+    4300012: switch 01 big
+    4300014: switch 02 big
+    4300016: switch 02
+    4300018: switch 03 big
+    4300020: switch 01
+    4300022: switch 03
+    4300024: Mesh159_MeshPart0
+    4300026: Mesh159_MeshPart1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_008
+    second: {fileID: 2100000, guid: b924f548845e23b42af5d2cf1af9b944, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_C07
+    second: {fileID: 2100000, guid: 143bdaf905180c748894f582c488b6b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_F20
+    second: {fileID: 2100000, guid: 0de698c6b82b379408e525c59a31235c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: de792059f2d063447a9ca9f65b788d6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _5
+    second: {fileID: 2100000, guid: 284b54084c547d342a1ca23cf8f92754, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _LightGray_
+    second: {fileID: 2100000, guid: f462d76bfdfed764897d15e7cf3aa3a8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

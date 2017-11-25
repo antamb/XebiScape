@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: 3759e967726025e4dada312619a90307
+timeCreated: 1511027646
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AI40_015_252 mouse001
+    100002: AI40_015_252 mouse002
+    100004: AI40_015_576 keyboard001
+    100006: AI40_015_576 keyboard002
+    100008: AI40_015_576 keyboard003
+    100010: AI40_015_576 keyboard004
+    100012: AI40_015_755
+    100014: AI40_015_756
+    100016: AI40_015_757
+    100018: AI40_015_758
+    100020: AI40_015_759
+    100022: AI40_015_760
+    100024: AI40_015_761
+    100026: AI40_015_762 screen
+    100028: HDD001
+    100030: HDD002
+    100032: HDD003
+    100034: HDD004
+    100036: HDD005
+    100038: HDD006
+    100040: HDD007
+    100042: HDD008
+    100044: server 004
+    100046: server 005
+    100048: //RootNode
+    100050: SERVER ANTA002
+    100052: SERVER ANTA003
+    400000: AI40_015_252 mouse001
+    400002: AI40_015_252 mouse002
+    400004: AI40_015_576 keyboard001
+    400006: AI40_015_576 keyboard002
+    400008: AI40_015_576 keyboard003
+    400010: AI40_015_576 keyboard004
+    400012: AI40_015_755
+    400014: AI40_015_756
+    400016: AI40_015_757
+    400018: AI40_015_758
+    400020: AI40_015_759
+    400022: AI40_015_760
+    400024: AI40_015_761
+    400026: AI40_015_762 screen
+    400028: HDD001
+    400030: HDD002
+    400032: HDD003
+    400034: HDD004
+    400036: HDD005
+    400038: HDD006
+    400040: HDD007
+    400042: HDD008
+    400044: server 004
+    400046: server 005
+    400048: //RootNode
+    400050: SERVER ANTA002
+    400052: SERVER ANTA003
+    2300000: AI40_015_252 mouse002
+    2300002: AI40_015_576 keyboard002
+    2300004: AI40_015_576 keyboard003
+    2300006: AI40_015_576 keyboard004
+    2300008: AI40_015_756
+    2300010: AI40_015_757
+    2300012: AI40_015_758
+    2300014: AI40_015_759
+    2300016: AI40_015_760
+    2300018: AI40_015_761
+    2300020: AI40_015_762 screen
+    2300022: HDD003
+    2300024: HDD004
+    2300026: HDD005
+    2300028: HDD006
+    2300030: HDD007
+    2300032: HDD008
+    2300034: server 004
+    2300036: server 005
+    2300038: SERVER ANTA002
+    2300040: SERVER ANTA003
+    3300000: AI40_015_252 mouse002
+    3300002: AI40_015_576 keyboard002
+    3300004: AI40_015_576 keyboard003
+    3300006: AI40_015_576 keyboard004
+    3300008: AI40_015_756
+    3300010: AI40_015_757
+    3300012: AI40_015_758
+    3300014: AI40_015_759
+    3300016: AI40_015_760
+    3300018: AI40_015_761
+    3300020: AI40_015_762 screen
+    3300022: HDD003
+    3300024: HDD004
+    3300026: HDD005
+    3300028: HDD006
+    3300030: HDD007
+    3300032: HDD008
+    3300034: server 004
+    3300036: server 005
+    3300038: SERVER ANTA002
+    3300040: SERVER ANTA003
+    4300000: AI40_015_762 screen
+    4300002: AI40_015_756
+    4300004: AI40_015_757
+    4300006: AI40_015_758
+    4300008: AI40_015_759
+    4300010: AI40_015_760
+    4300012: AI40_015_761
+    4300014: AI40_015_576 keyboard002
+    4300016: AI40_015_576 keyboard003
+    4300018: AI40_015_576 keyboard004
+    4300020: AI40_015_252 mouse002
+    4300022: SERVER ANTA002
+    4300024: SERVER ANTA003
+    4300026: server 004
+    4300028: server 005
+    4300030: HDD003
+    4300032: HDD004
+    4300034: HDD005
+    4300036: HDD006
+    4300038: HDD007
+    4300040: HDD008
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI40_015_060
+    second: {fileID: 2100000, guid: 5e9c20a8aad69054bb1efd25b80f3356, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI40_015_061
+    second: {fileID: 2100000, guid: 706a3773c0a70f849aead930037e0f3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI40_015_062
+    second: {fileID: 2100000, guid: 0d3019c9d3cef024aaff970e548ea620, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI40_015_063
+    second: {fileID: 2100000, guid: d4cc0b1788a7f2a4287f9dd276850376, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI40_015_064
+    second: {fileID: 2100000, guid: 2a7f60b11fecad74a895197cc2c2d15c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI40_015_067
+    second: {fileID: 2100000, guid: 0280fe08e07474146980dea5e1b97cb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI40_015_068
+    second: {fileID: 2100000, guid: 101f652f8f108ea409f5a150b81b5f85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI40_015_069
+    second: {fileID: 2100000, guid: 8b0a156b152f88942829a6c56063570c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI40_015_070
+    second: {fileID: 2100000, guid: 14b98baa01892084ca217b757ff1eea9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 03b8c8903019a6f43a4654b6ec2aab7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material#1
+    second: {fileID: 2100000, guid: b8e7fa9af0462a140b9127100e943286, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material#2
+    second: {fileID: 2100000, guid: 24ca2931473691a4c92f05f93e6fb622, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material#3
+    second: {fileID: 2100000, guid: 94bf43166531ac1478e4ad3d8ae57075, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material#4
+    second: {fileID: 2100000, guid: 94bf43166531ac1478e4ad3d8ae57075, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material#5
+    second: {fileID: 2100000, guid: aa4cd82e6bc5b474db2791860a9bba75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 45faa160ddf3f4b498b0fe3209064d93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _SERVER ANTADefault
+    second: {fileID: 2100000, guid: 15e6fb05e006723469eeb27710b46f1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _SERVER ANTANew_material_002
+    second: {fileID: 2100000, guid: eef13b7969288674fae89e95be09d519, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

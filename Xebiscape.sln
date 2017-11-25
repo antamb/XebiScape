@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xebiscape.Plugins", "Xebiscape.Plugins.csproj", "{692C92CC-5785-9190-B44A-47243F6FF7C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xebiscape", "Xebiscape.csproj", "{9C67FD68-7803-7F76-A794-304E3D72B3DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xebiscape.Editor.Plugins", "Xebiscape.Editor.Plugins.csproj", "{D448E95D-3FC0-4528-061E-2D5AB60A5707}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{692C92CC-5785-9190-B44A-47243F6FF7C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692C92CC-5785-9190-B44A-47243F6FF7C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692C92CC-5785-9190-B44A-47243F6FF7C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692C92CC-5785-9190-B44A-47243F6FF7C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C67FD68-7803-7F76-A794-304E3D72B3DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C67FD68-7803-7F76-A794-304E3D72B3DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C67FD68-7803-7F76-A794-304E3D72B3DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C67FD68-7803-7F76-A794-304E3D72B3DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D448E95D-3FC0-4528-061E-2D5AB60A5707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D448E95D-3FC0-4528-061E-2D5AB60A5707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D448E95D-3FC0-4528-061E-2D5AB60A5707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D448E95D-3FC0-4528-061E-2D5AB60A5707}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

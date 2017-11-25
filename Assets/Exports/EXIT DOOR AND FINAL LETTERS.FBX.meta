@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 5a500e09973911148b2b08979bc3c68b
+timeCreated: 1511473900
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: a door
+    100002: b door
+    100004: cgaxis_door_53_1
+    100006: DOOR
+    100008: door panel
+    100010: e door
+    100012: //RootNode
+    100014: i door
+    100016: jointure
+    100018: Layer:Default
+    100020: LETTER A
+    100022: LETTER B
+    100024: LETTER E
+    100026: LETTER I
+    100028: LETTER X
+    100030: poigne on panel
+    100032: poignee
+    100034: x door
+    400000: a door
+    400002: b door
+    400004: cgaxis_door_53_1
+    400006: DOOR
+    400008: door panel
+    400010: e door
+    400012: //RootNode
+    400014: i door
+    400016: jointure
+    400018: Layer:Default
+    400020: LETTER A
+    400022: LETTER B
+    400024: LETTER E
+    400026: LETTER I
+    400028: LETTER X
+    400030: poigne on panel
+    400032: poignee
+    400034: x door
+    2300000: a door
+    2300002: b door
+    2300004: cgaxis_door_53_1
+    2300006: door panel
+    2300008: e door
+    2300010: i door
+    2300012: jointure
+    2300014: LETTER A
+    2300016: LETTER B
+    2300018: LETTER E
+    2300020: LETTER I
+    2300022: LETTER X
+    2300024: poigne on panel
+    2300026: poignee
+    2300028: x door
+    3300000: a door
+    3300002: b door
+    3300004: cgaxis_door_53_1
+    3300006: door panel
+    3300008: e door
+    3300010: i door
+    3300012: jointure
+    3300014: LETTER A
+    3300016: LETTER B
+    3300018: LETTER E
+    3300020: LETTER I
+    3300022: LETTER X
+    3300024: poigne on panel
+    3300026: poignee
+    3300028: x door
+    4300000: poignee
+    4300002: cgaxis_door_53_1
+    4300004: LETTER X
+    4300006: LETTER A
+    4300008: LETTER I
+    4300010: LETTER B
+    4300012: LETTER E
+    4300014: door panel
+    4300016: x door
+    4300018: e door
+    4300020: b door
+    4300022: i door
+    4300024: a door
+    4300026: poigne on panel
+    4300028: jointure
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_05
+    second: {fileID: 2100000, guid: ad954135c54e347eb8c5cfa00c8b11d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #10'
+    second: {fileID: 2100000, guid: b635c9b55b212467f9dbedafa01823cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cgaxis_door_53_1
+    second: {fileID: 2100000, guid: 0ae619156de1d4cdc9fa0c60bb6a5fd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cgaxis_door_53_2
+    second: {fileID: 2100000, guid: 75e2665db2cda4ef29673ce4366306bb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

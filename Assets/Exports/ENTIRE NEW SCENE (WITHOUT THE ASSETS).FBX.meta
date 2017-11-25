@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: ccb2b61f8a234402d8e25c832357f692
+timeCreated: 1510780180
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AI33_001_032_01
+    100002: AI33_001_arch_lamp_big_black005
+    100004: AI33_001_arch_lamp_big_black006
+    100006: AI33_001_arch_lamp_big_black007
+    100008: AI33_001_arch_lamp_big_black008
+    100010: AI33_001_arch_lamp_big_black009
+    100012: AI33_001_arch_lamp_big_black04
+    100014: AI33_001_furniture_pad07
+    100016: AI33_001_furniture_pad08
+    100018: AI33_001_furniture_pad09
+    100020: AI33_001_furniture_pad10
+    100022: AI33_001_furniture_pad11
+    100024: AI33_001_furniture_pad12
+    100026: AI33_001_furniture_pc_07
+    100028: AI33_001_furniture_pc_08
+    100030: AI33_001_furniture_pc_09
+    100032: AI33_001_furniture_pc_10
+    100034: AI33_001_furniture_pc_11
+    100036: AI33_001_furniture_pc_12
+    100038: AI33_001_furniture_wooden_table_01
+    100040: AI33_001_prop002_00
+    100042: AI33_001_prop01
+    100044: AI33_001_prop_001_069_02
+    100046: AI33_001_prop_011_06
+    100048: AI33_001_prop_016_obj_00
+    100050: AI33_001_prop_019_006
+    100052: AI33_001_prop_019_05
+    100054: AI33_001_prop_022_obj_00
+    100056: AI33_001_prop_022_obj_00_MeshPart0
+    100058: AI33_001_prop_022_obj_00_MeshPart1
+    100060: AI33_001_prop_022_obj_00_MeshPart2
+    100062: AI33_001_prop_035_00
+    100064: AI33_001_prop_040_02
+    100066: AI33_001_prop_054_05
+    100068: AI33_001_prop_061_02
+    100070: AI33_001_prop_067_00
+    100072: AI33_001_prop_068_01
+    100074: AI33_001_prop_069_003
+    100076: AI33_001_prop_071_03
+    100078: AI33_003_06
+    100080: AI33_003_07
+    100082: AI33_003_08
+    100084: AI33_003_09
+    100086: AI33_003_10
+    100088: AI33_003_11
+    100090: AI33_003_12
+    100092: AI33_003_12_MeshPart0
+    100094: AI33_003_12_MeshPart1
+    100096: AI33_003_14
+    100098: AI33_003_15
+    100100: AI33_003_16
+    100102: AM_138_029
+    100104: AM_138_029_obj_01
+    100106: AM_138_029_obj_02
+    100108: Arch43_072_obj_01
+    100110: Arch43_072_obj_02
+    100112: Arch43_072_obj_03
+    100114: Default
+    100116: //RootNode
+    100118: Layer 01
+    100120: Layer 02
+    100122: Layer 03
+    100124: Layer 04
+    100126: Layer 05
+    100128: Layer:GLASS
+    100130: Layer:GLASS 1
+    100132: Layer:METAL BAR
+    100134: Layer:WALL
+    100136: Layer:WOOD
+    100138: mur fond
+    100140: Object002
+    100142: server 003
+    100144: SERVER ANTA001
+    100146: SILLA
+    100148: SILLA002
+    100150: SILLA003
+    100152: SILLA004
+    100154: SILLA005
+    100156: SOFA
+    100158: Untitled_CEILING
+    100160: Untitled_FLOOR
+    100162: Untitled_FLOOR2
+    100164: vm_v1_012
+    100166: vm_v1_013
+    100168: vm_v1_014
+    100170: vm_v1_015
+    100172: vm_v1_016
+    100174: vm_v1_017
+    400000: AI33_001_032_01
+    400002: AI33_001_arch_lamp_big_black005
+    400004: AI33_001_arch_lamp_big_black006
+    400006: AI33_001_arch_lamp_big_black007
+    400008: AI33_001_arch_lamp_big_black008
+    400010: AI33_001_arch_lamp_big_black009
+    400012: AI33_001_arch_lamp_big_black04
+    400014: AI33_001_furniture_pad07
+    400016: AI33_001_furniture_pad08
+    400018: AI33_001_furniture_pad09
+    400020: AI33_001_furniture_pad10
+    400022: AI33_001_furniture_pad11
+    400024: AI33_001_furniture_pad12
+    400026: AI33_001_furniture_pc_07
+    400028: AI33_001_furniture_pc_08
+    400030: AI33_001_furniture_pc_09
+    400032: AI33_001_furniture_pc_10
+    400034: AI33_001_furniture_pc_11
+    400036: AI33_001_furniture_pc_12
+    400038: AI33_001_furniture_wooden_table_01
+    400040: AI33_001_prop002_00
+    400042: AI33_001_prop01
+    400044: AI33_001_prop_001_069_02
+    400046: AI33_001_prop_011_06
+    400048: AI33_001_prop_016_obj_00
+    400050: AI33_001_prop_019_006
+    400052: AI33_001_prop_019_05
+    400054: AI33_001_prop_022_obj_00
+    400056: AI33_001_prop_022_obj_00_MeshPart0
+    400058: AI33_001_prop_022_obj_00_MeshPart1
+    400060: AI33_001_prop_022_obj_00_MeshPart2
+    400062: AI33_001_prop_035_00
+    400064: AI33_001_prop_040_02
+    400066: AI33_001_prop_054_05
+    400068: AI33_001_prop_061_02
+    400070: AI33_001_prop_067_00
+    400072: AI33_001_prop_068_01
+    400074: AI33_001_prop_069_003
+    400076: AI33_001_prop_071_03
+    400078: AI33_003_06
+    400080: AI33_003_07
+    400082: AI33_003_08
+    400084: AI33_003_09
+    400086: AI33_003_10
+    400088: AI33_003_11
+    400090: AI33_003_12
+    400092: AI33_003_12_MeshPart0
+    400094: AI33_003_12_MeshPart1
+    400096: AI33_003_14
+    400098: AI33_003_15
+    400100: AI33_003_16
+    400102: AM_138_029
+    400104: AM_138_029_obj_01
+    400106: AM_138_029_obj_02
+    400108: Arch43_072_obj_01
+    400110: Arch43_072_obj_02
+    400112: Arch43_072_obj_03
+    400114: Default
+    400116: //RootNode
+    400118: Layer 01
+    400120: Layer 02
+    400122: Layer 03
+    400124: Layer 04
+    400126: Layer 05
+    400128: Layer:GLASS
+    400130: Layer:GLASS 1
+    400132: Layer:METAL BAR
+    400134: Layer:WALL
+    400136: Layer:WOOD
+    400138: mur fond
+    400140: Object002
+    400142: server 003
+    400144: SERVER ANTA001
+    400146: SILLA
+    400148: SILLA002
+    400150: SILLA003
+    400152: SILLA004
+    400154: SILLA005
+    400156: SOFA
+    400158: Untitled_CEILING
+    400160: Untitled_FLOOR
+    400162: Untitled_FLOOR2
+    400164: vm_v1_012
+    400166: vm_v1_013
+    400168: vm_v1_014
+    400170: vm_v1_015
+    400172: vm_v1_016
+    400174: vm_v1_017
+    2300000: AI33_001_032_01
+    2300002: AI33_001_arch_lamp_big_black005
+    2300004: AI33_001_arch_lamp_big_black006
+    2300006: AI33_001_arch_lamp_big_black007
+    2300008: AI33_001_arch_lamp_big_black008
+    2300010: AI33_001_arch_lamp_big_black009
+    2300012: AI33_001_arch_lamp_big_black04
+    2300014: AI33_001_furniture_pad07
+    2300016: AI33_001_furniture_pad08
+    2300018: AI33_001_furniture_pad09
+    2300020: AI33_001_furniture_pad10
+    2300022: AI33_001_furniture_pad11
+    2300024: AI33_001_furniture_pad12
+    2300026: AI33_001_furniture_pc_07
+    2300028: AI33_001_furniture_pc_08
+    2300030: AI33_001_furniture_pc_09
+    2300032: AI33_001_furniture_pc_10
+    2300034: AI33_001_furniture_pc_11
+    2300036: AI33_001_furniture_pc_12
+    2300038: AI33_001_furniture_wooden_table_01
+    2300040: AI33_001_prop002_00
+    2300042: AI33_001_prop01
+    2300044: AI33_001_prop_001_069_02
+    2300046: AI33_001_prop_011_06
+    2300048: AI33_001_prop_016_obj_00
+    2300050: AI33_001_prop_019_006
+    2300052: AI33_001_prop_019_05
+    2300054: AI33_001_prop_022_obj_00_MeshPart0
+    2300056: AI33_001_prop_022_obj_00_MeshPart1
+    2300058: AI33_001_prop_022_obj_00_MeshPart2
+    2300060: AI33_001_prop_035_00
+    2300062: AI33_001_prop_040_02
+    2300064: AI33_001_prop_054_05
+    2300066: AI33_001_prop_061_02
+    2300068: AI33_001_prop_067_00
+    2300070: AI33_001_prop_068_01
+    2300072: AI33_001_prop_069_003
+    2300074: AI33_001_prop_071_03
+    2300076: AI33_003_07
+    2300078: AI33_003_08
+    2300080: AI33_003_09
+    2300082: AI33_003_10
+    2300084: AI33_003_11
+    2300086: AI33_003_12_MeshPart0
+    2300088: AI33_003_12_MeshPart1
+    2300090: AI33_003_15
+    2300092: AI33_003_16
+    2300094: AM_138_029_obj_01
+    2300096: AM_138_029_obj_02
+    2300098: Arch43_072_obj_01
+    2300100: Arch43_072_obj_02
+    2300102: Arch43_072_obj_03
+    2300104: Layer:GLASS
+    2300106: Layer:GLASS 1
+    2300108: Layer:METAL BAR
+    2300110: Layer:WALL
+    2300112: Layer:WOOD
+    2300114: mur fond
+    2300116: Untitled_CEILING
+    2300118: Untitled_FLOOR
+    2300120: Untitled_FLOOR2
+    2300122: vm_v1_012
+    2300124: vm_v1_013
+    2300126: vm_v1_014
+    2300128: vm_v1_015
+    2300130: vm_v1_016
+    2300132: vm_v1_017
+    3300000: AI33_001_032_01
+    3300002: AI33_001_arch_lamp_big_black005
+    3300004: AI33_001_arch_lamp_big_black006
+    3300006: AI33_001_arch_lamp_big_black007
+    3300008: AI33_001_arch_lamp_big_black008
+    3300010: AI33_001_arch_lamp_big_black009
+    3300012: AI33_001_arch_lamp_big_black04
+    3300014: AI33_001_furniture_pad07
+    3300016: AI33_001_furniture_pad08
+    3300018: AI33_001_furniture_pad09
+    3300020: AI33_001_furniture_pad10
+    3300022: AI33_001_furniture_pad11
+    3300024: AI33_001_furniture_pad12
+    3300026: AI33_001_furniture_pc_07
+    3300028: AI33_001_furniture_pc_08
+    3300030: AI33_001_furniture_pc_09
+    3300032: AI33_001_furniture_pc_10
+    3300034: AI33_001_furniture_pc_11
+    3300036: AI33_001_furniture_pc_12
+    3300038: AI33_001_furniture_wooden_table_01
+    3300040: AI33_001_prop002_00
+    3300042: AI33_001_prop01
+    3300044: AI33_001_prop_001_069_02
+    3300046: AI33_001_prop_011_06
+    3300048: AI33_001_prop_016_obj_00
+    3300050: AI33_001_prop_019_006
+    3300052: AI33_001_prop_019_05
+    3300054: AI33_001_prop_022_obj_00_MeshPart0
+    3300056: AI33_001_prop_022_obj_00_MeshPart1
+    3300058: AI33_001_prop_022_obj_00_MeshPart2
+    3300060: AI33_001_prop_035_00
+    3300062: AI33_001_prop_040_02
+    3300064: AI33_001_prop_054_05
+    3300066: AI33_001_prop_061_02
+    3300068: AI33_001_prop_067_00
+    3300070: AI33_001_prop_068_01
+    3300072: AI33_001_prop_069_003
+    3300074: AI33_001_prop_071_03
+    3300076: AI33_003_07
+    3300078: AI33_003_08
+    3300080: AI33_003_09
+    3300082: AI33_003_10
+    3300084: AI33_003_11
+    3300086: AI33_003_12_MeshPart0
+    3300088: AI33_003_12_MeshPart1
+    3300090: AI33_003_15
+    3300092: AI33_003_16
+    3300094: AM_138_029_obj_01
+    3300096: AM_138_029_obj_02
+    3300098: Arch43_072_obj_01
+    3300100: Arch43_072_obj_02
+    3300102: Arch43_072_obj_03
+    3300104: Layer:GLASS
+    3300106: Layer:GLASS 1
+    3300108: Layer:METAL BAR
+    3300110: Layer:WALL
+    3300112: Layer:WOOD
+    3300114: mur fond
+    3300116: Untitled_CEILING
+    3300118: Untitled_FLOOR
+    3300120: Untitled_FLOOR2
+    3300122: vm_v1_012
+    3300124: vm_v1_013
+    3300126: vm_v1_014
+    3300128: vm_v1_015
+    3300130: vm_v1_016
+    3300132: vm_v1_017
+    4300000: Untitled_CEILING
+    4300002: Untitled_FLOOR
+    4300004: Untitled_FLOOR2
+    4300006: AI33_001_arch_lamp_big_black04
+    4300008: AI33_001_arch_lamp_big_black005
+    4300010: AI33_001_arch_lamp_big_black006
+    4300012: AI33_001_arch_lamp_big_black007
+    4300014: AI33_001_arch_lamp_big_black008
+    4300016: AI33_001_arch_lamp_big_black009
+    4300018: AI33_003_07
+    4300020: AI33_003_08
+    4300022: AI33_003_09
+    4300024: AI33_003_10
+    4300026: AI33_003_11
+    4300028: AI33_003_12_MeshPart0
+    4300030: AI33_003_12_MeshPart1
+    4300032: AI33_003_15
+    4300034: AI33_003_16
+    4300036: Layer:WOOD
+    4300038: Layer:GLASS
+    4300040: AI33_001_furniture_wooden_table_01
+    4300042: AI33_001_furniture_pad07
+    4300044: AI33_001_furniture_pad08
+    4300046: AI33_001_furniture_pad09
+    4300048: AI33_001_furniture_pad12
+    4300050: AI33_001_furniture_pad11
+    4300052: AI33_001_furniture_pad10
+    4300054: AI33_001_prop_016_obj_00
+    4300056: AI33_001_prop_067_00
+    4300058: AI33_001_prop_035_00
+    4300060: AI33_001_prop_071_03
+    4300062: AI33_001_032_01
+    4300064: AI33_001_prop_068_01
+    4300066: AI33_001_prop002_00
+    4300068: AI33_001_prop_019_05
+    4300070: AI33_001_prop_040_02
+    4300072: AI33_001_prop_061_02
+    4300074: AI33_001_prop_022_obj_00_MeshPart0
+    4300076: AI33_001_prop_022_obj_00_MeshPart1
+    4300078: AI33_001_prop_022_obj_00_MeshPart2
+    4300080: AI33_001_prop_001_069_02
+    4300082: AI33_001_prop_069_003
+    4300084: AI33_001_prop01
+    4300086: AI33_001_prop_019_006
+    4300088: AI33_001_prop_054_05
+    4300090: AI33_001_prop_011_06
+    4300092: Arch43_072_obj_02
+    4300094: Arch43_072_obj_01
+    4300096: Arch43_072_obj_03
+    4300098: AM_138_029_obj_02
+    4300100: AM_138_029_obj_01
+    4300102: Layer:WALL
+    4300104: Layer:GLASS
+    4300106: Layer:METAL BAR
+    4300108: mur fond
+    4300110: AI33_001_furniture_pc_07
+    4300112: AI33_001_furniture_pc_08
+    4300114: AI33_001_furniture_pc_09
+    4300116: AI33_001_furniture_pc_10
+    4300118: AI33_001_furniture_pc_11
+    4300120: AI33_001_furniture_pc_12
+    4300122: vm_v1_017
+    4300124: vm_v1_013
+    4300126: vm_v1_014
+    4300128: vm_v1_015
+    4300130: vm_v1_016
+    4300132: vm_v1_012
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_ Default
+    second: {fileID: 2100000, guid: 918963ffd27d044be9f203d8872e15bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_01 - Default
+    second: {fileID: 2100000, guid: 53adfcecc4b114836bb65bd6bd31198a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_022_00
+    second: {fileID: 2100000, guid: b045f7df00f664e7594e459d170176db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_022_01
+    second: {fileID: 2100000, guid: dc7e47f319c864485a89adb6766131dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_022_02
+    second: {fileID: 2100000, guid: 5027dec7c8bee4f258860fb4bf1fb31e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_022_03
+    second: {fileID: 2100000, guid: 9b757305bd4a34b558582243f4400b7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_022_04
+    second: {fileID: 2100000, guid: 9eb1edb09354f446a87064dc659ed466, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_022_05
+    second: {fileID: 2100000, guid: 4f423f01dbfdb4b35acafb3eec107445, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_022_06
+    second: {fileID: 2100000, guid: 17baaf6a2d70343a1ac36a744a291d4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_022_07
+    second: {fileID: 2100000, guid: f9b07af33603f4c7a8192e456a7cd871, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_022_08
+    second: {fileID: 2100000, guid: 8afbfeb2ef0b54a9a965c868d50adcd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_022_09
+    second: {fileID: 2100000, guid: 52014e390e2d14289819848fe200ab0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_022_10
+    second: {fileID: 2100000, guid: c926c347e6b944563834c7979488e1f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_022_11
+    second: {fileID: 2100000, guid: 2b4e3e5923da0418aa0e3813361de15d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_022_12
+    second: {fileID: 2100000, guid: de64305020fd44788952e9bff1c6446c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_022_13
+    second: {fileID: 2100000, guid: 14dca8a740fc54951bafa9f7c8177ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_022_14
+    second: {fileID: 2100000, guid: c63bc4b02d67e4c05981da448a19823b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_022_15
+    second: {fileID: 2100000, guid: 0cda20b7c225c4beb8fd96fcb757c880, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_022_16
+    second: {fileID: 2100000, guid: 6a5bba21c5ca44b21967ee4ea752de38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_04
+    second: {fileID: 2100000, guid: c1ef5c048702d4026b35c8da86861b19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_05
+    second: {fileID: 2100000, guid: ad954135c54e347eb8c5cfa00c8b11d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_1
+    second: {fileID: 2100000, guid: 9ea545193459b4968a3d358dd76dedc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_15
+    second: {fileID: 2100000, guid: 172930e395d5a431f812ee0c8e698c69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_2
+    second: {fileID: 2100000, guid: c2a95c3529fe74ce4b2f83733da0ccd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_2 - Default
+    second: {fileID: 2100000, guid: 82796e8eca69a45c8a690633524c7786, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_2B
+    second: {fileID: 2100000, guid: 935e2b4e5a7a84218bc95087f6e209a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_3
+    second: {fileID: 2100000, guid: b862924d4ca804928b897f034ac4b34a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_3B
+    second: {fileID: 2100000, guid: 82d8cee61a342477fa11bbdd68d9904a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_4
+    second: {fileID: 2100000, guid: 606f91aca5d554f44ae1d0797e13c967, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_CD
+    second: {fileID: 2100000, guid: 7b3eac04940f8497e94554a7f457c81e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_Default
+    second: {fileID: 2100000, guid: c56bc01b96b1a49e78b2d14e7453e798, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'AI33_001_Material #2540'
+    second: {fileID: 2100000, guid: 5ff4cba38151a4b9b875cf400d3d160f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'AI33_001_Material #2553'
+    second: {fileID: 2100000, guid: c8e71aaf0220a439c8399a5b2b8d6aba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'AI33_001_Material #2554'
+    second: {fileID: 2100000, guid: 500def282547a420db67825f07248cc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'AI33_001_Material #2555'
+    second: {fileID: 2100000, guid: b65570c22f13749fda2fbb165305f21e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'AI33_001_Material #2556'
+    second: {fileID: 2100000, guid: 3f877902f4fea49189d7fd1487aae161, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_black
+    second: {fileID: 2100000, guid: bdc99719837ad4982a43dca19386bf44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_black2
+    second: {fileID: 2100000, guid: b70f551b87ec34335a41c3a29cda23f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_blue
+    second: {fileID: 2100000, guid: 2043677d725ec4d938fc4b1df71f7ead, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_calendar label
+    second: {fileID: 2100000, guid: 9fadf210dfc14435f9ab47ef7422493e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_card yellow
+    second: {fileID: 2100000, guid: d07d04ec28d0f41f4a8ecbcb3875fcd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_chrome_02
+    second: {fileID: 2100000, guid: 9b8f02e9e153c4650a59bbf425ac4224, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_cover label
+    second: {fileID: 2100000, guid: f2448d3b09b904cdcb8338ea6b29cb24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_dark
+    second: {fileID: 2100000, guid: 0673e5b2a9cd240bba2d422c1b528c98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_doc
+    second: {fileID: 2100000, guid: f7898bd720df248fb85762fd23a505ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_doc1
+    second: {fileID: 2100000, guid: db706b3f1fa204975b7ccb91125c457c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_doc2
+    second: {fileID: 2100000, guid: 465db2f2bf2054a859735565609c7d6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_glass2
+    second: {fileID: 2100000, guid: 0269bbcb028184e868cc0db6268a8925, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_label
+    second: {fileID: 2100000, guid: fdbbde6842fff4aa5abccddb79829d50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_lamp_black
+    second: {fileID: 2100000, guid: 92a60b653fa8b432883bda8fc8976a39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_leather 01
+    second: {fileID: 2100000, guid: d46b92f577a3a4345bdba10f14a13bff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_leather 02
+    second: {fileID: 2100000, guid: abb10b882ab75435088b355087735ae0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_metal
+    second: {fileID: 2100000, guid: b261b432c8bd6487c8d8671bff17f793, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_metal 22
+    second: {fileID: 2100000, guid: fa7eefe3b414d4664a5afae4d1fd7235, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_metal 2222
+    second: {fileID: 2100000, guid: 97fff22f93a85415ebfc3c31ce62e083, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_metal2
+    second: {fileID: 2100000, guid: 895f74f36032c4656ae89803d5209a6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_metal22
+    second: {fileID: 2100000, guid: 834d62a90574146ab8b472908da9c272, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_mutli_black
+    second: {fileID: 2100000, guid: 9cdaa1c0cb5024559a11370e0f70ea0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_notes page
+    second: {fileID: 2100000, guid: 3905f2d461286469fb2237ef382c12dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_notes01
+    second: {fileID: 2100000, guid: 25f329141da5748bf9bf3c599cd7e224, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_paper
+    second: {fileID: 2100000, guid: c672224e89fc5416db819671221e6eb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_paper label
+    second: {fileID: 2100000, guid: 2c610526040414d8698145c67f1b16fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_paper2
+    second: {fileID: 2100000, guid: f22410388bea64711bb553c3a8556803, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_poster
+    second: {fileID: 2100000, guid: 4f74d65b39ed14bb4a321dcea279ebd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_tape1
+    second: {fileID: 2100000, guid: 6e10365f8bf164117a7e23dc98918e07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_tape2
+    second: {fileID: 2100000, guid: 03b37b50a55674415bc6251235c2ac63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_white
+    second: {fileID: 2100000, guid: ec2044acc31bb430c9cfd643720704e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_wooden_table_blend
+    second: {fileID: 2100000, guid: cd4408576a9554a8e857d8e5c947028d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI33_001_yellow
+    second: {fileID: 2100000, guid: f4ae12cc21c4842c0912f0f9dba50767, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM_138_029_002_refl.,refl.gloss_
+    second: {fileID: 2100000, guid: 80bf0da893a124d85a40a9c4466a7708, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM_138_029_refl.,refl.gloss
+    second: {fileID: 2100000, guid: b255c14ef5422496f91019d37e790d02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome
+    second: {fileID: 2100000, guid: bc37f9675062c48d283e426eb9ac6a2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GLASS
+    second: {fileID: 2100000, guid: 70a14bf75336f4a598077ab712c82f77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #10'
+    second: {fileID: 2100000, guid: b635c9b55b212467f9dbedafa01823cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2097627681'
+    second: {fileID: 2100000, guid: cbfd6dbe8b956460a96efa64f382b4e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2097627724'
+    second: {fileID: 2100000, guid: dde696518253b4586a78d68a2eba5e78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2097627725'
+    second: {fileID: 2100000, guid: 39b2fbee6d4084a89a93b989593ad2db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2097627726'
+    second: {fileID: 2100000, guid: 06bf47b52b9c940a58e7b6adbb655a18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red fabrc
+    second: {fileID: 2100000, guid: f1fabae979d024642be6aa040c81846c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vm_v1_011_chrome
+    second: {fileID: 2100000, guid: baa09c558f9a64203a810e3dce0d86d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vm_v1_011_leather
+    second: {fileID: 2100000, guid: fb6258ca601fd48eba4dff1bed949f8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vm_v1_011_plastic
+    second: {fileID: 2100000, guid: d1eef88c14ea347159aaf633f665abd8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
